@@ -1,0 +1,16 @@
+.question{
+    text-align: center;
+}
+.number{
+    text-align: center;
+}
+.answers{
+    text-align: center;
+    align-self: center;
+    display: flex;
+    flex-flow: row wrap;
+}
+.buttonwrap{
+    width: 100%;
+    margin-top: 8px;
+}
